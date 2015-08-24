@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bielefeld;Lois;;;
+FN:Lois Bielefeld
+ORG:Lois Bielefeld Photography;
+TITLE:Photographer
+EMAIL;type=INTERNET;type=HOME;type=pref:loisbielefeld@gmail.com
+TEL;type=CELL;type=pref:347-563-3898
+item1.ADR;type=HOME;type=pref:;;;Brooklyn;NY;;
+item1.X-ABADR:us
+item2.URL;type=pref:loisbielefeld.com
+item2.X-ABLabel:_$!<HomePage>!$_
+X-ABUID:D3DC3209-F6BB-4A42-A7FE-478F0362173E\:ABPerson
+END:VCARD

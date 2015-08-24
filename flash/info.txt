@@ -1,0 +1,9 @@
+
+&share=share
+&about_btn= about
+&contact_btn=contact
+&gallery1=new work
+&gallery2=   fashion   
+&gallery3=    music
+&gallery4= bedrooms
+
